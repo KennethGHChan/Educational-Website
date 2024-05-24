@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyBackend.a CMakeFiles/MyBackend.dir/Stack.cpp.o CMakeFiles/MyBackend.dir/Main.cpp.o
+/usr/bin/ranlib libMyBackend.a

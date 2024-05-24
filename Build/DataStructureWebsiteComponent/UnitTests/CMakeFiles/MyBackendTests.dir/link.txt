@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyBackendTests.dir/test_Stack.cpp.o -o MyBackendTests  ../../../Gtest/vcpkg/installed/x64-linux/debug/lib/libgtest.a ../../../Gtest/vcpkg/installed/x64-linux/debug/lib/manual-link/libgtest_main.a Backend_build/libMyBackend.a ../../../Gtest/vcpkg/installed/x64-linux/debug/lib/libgtest.a 
