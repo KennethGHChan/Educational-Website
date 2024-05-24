@@ -1,0 +1,27 @@
+# Root .gitignore
+*.log
+*.pyc
+__pycache__/
+venv/
+node_modules/
+build/
+dist/
+.env
+
+# Django .gitignore
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.env
+/local_settings.py
+
+# React .gitignore
+node_modules/
+build/
+*.log
+.DS_Store
+.env
